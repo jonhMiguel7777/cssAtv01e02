@@ -1,1 +1,2 @@
-# cssAtv01e02
+# tipos-de-css
+Exercício sobre os tipos de CSS: inline, embutido e externo.
